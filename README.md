@@ -5,7 +5,9 @@ central limit theorem means **average of your sample means will converge to the 
 
 z-score formula:
 
- z = \frac{\bar{X} - \mu}{\sigma / \sqrt{n}} 
+```
+z = \frac{\bar{X} - \mu}{\sigma / \sqrt{n}}
+```
 where
 
 $\bar{X} = $ sample mean
